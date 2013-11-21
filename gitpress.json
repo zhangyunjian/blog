@@ -1,1 +1,6 @@
-{}
+{
+    "docs"      : ["posts"],
+    "template"  : "tactile",
+    "domain_alias" : ["i.zhangyunjian.com"],
+    "title"  : "我是张云剑！"
+}
