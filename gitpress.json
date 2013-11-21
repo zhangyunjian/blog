@@ -1,5 +1,5 @@
 {
-    "docs"      : ["posts"],
     "template"  : "tactile",
+    "domain_alias" : ["zheyumingzhentamadechang.zhangyunjian.com"],
     "title"  : "我是张云剑！"
 }
