@@ -1,5 +1,11 @@
 {
     "template"  : "tactile",
     "domain_alias" : ["zheyumingzhentamadechang.zhangyunjian.com"],
+    "types"     : {
+                "\\.(md||markdown)$"   : "markdown", 
+                "\\.(js||css||json)$"  : "code",
+                "\\.html?$"            : "html",
+                ".*"                   : "text"                
+        },
     "title"  : "我是张云剑！"
 }
