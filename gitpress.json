@@ -1,5 +1,5 @@
 {
-    "docs" : ["README", "posts"],
+    "docs" : ["README.md", "posts"],
     "template"  : "tactile",
     "domain_alias" : ["zheyumingzhentamadechang.zhangyunjian.com"],
     "types"     : {
